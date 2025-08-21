@@ -51,6 +51,3 @@ This method efficiently checks the key format without creating temporary files.
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-## Contact
-
-For any questions or issues, please contact Alvaro Gutierrez Araque at Alvaro.GutierrezAr@ext.esa.int.
